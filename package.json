@@ -1,0 +1,30 @@
+{
+  "name": "hello.html",
+  "version": "1.0.0",
+  "description": "major project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manasvikotak/major_project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "body-parser",
+    "html",
+    "css"
+  ],
+  "author": "manasvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manasvikotak/major_project/issues"
+  },
+  "homepage": "https://github.com/Manasvikotak/major_project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
